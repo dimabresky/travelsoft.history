@@ -7,11 +7,11 @@
 ```
     clone https://github.com/dimabresky/travelsoft.history.git version-1.0
 ```
-![Шаг установки 1](https://github.com/dimabresky/travelsoft.currency/raw/version-1.0/img/img1.png)
+![Шаг установки 1](https://github.com/dimabresky/travelsoft.history/raw/version-1.0/img/img1.png)
 
 При установке можно будет сделать предварительную настройку
 
-![Шаг установки 2](https://github.com/dimabresky/travelsoft.currency/raw/version-1.0/img/img2.png)
+![Шаг установки 2](https://github.com/dimabresky/travelsoft.history/raw/version-1.0/img/img2.png)
 
 ## Описание
 Модуль позволяет отслеживать изменения в элементах инфоблоков, highloadblock,
