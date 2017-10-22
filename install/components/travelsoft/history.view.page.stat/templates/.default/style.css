@@ -1,0 +1,12 @@
+/* 
+    Created on : 29.04.2017, 14:43:22
+    Author     : dimabresky
+    Company : travelsoft
+*/
+
+.white-area {
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
