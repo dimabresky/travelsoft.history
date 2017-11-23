@@ -54,7 +54,7 @@ CJSCore::Init();
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
                         <div class="form-group">
                             <label for="HISTORY_FILTER[STORE_ID]"><?= GetMessage("FILTER_STORE_TITLE")?></label>
-                            <input value="<?= htmlspecialchars($_REQUEST["HISTORY_FILTER"]["STORE_ID"])?>" class="form-control" id="HISTORY_FILTER[STORE_ID]" type="text" name="HISTORY_FILTER[ELEMENT_ID]">
+                            <input value="<?= htmlspecialchars($_REQUEST["HISTORY_FILTER"]["STORE_ID"])?>" class="form-control" id="HISTORY_FILTER[STORE_ID]" type="text" name="HISTORY_FILTER[STORE_ID]">
                         </div>
                     </div>
                 </div>
