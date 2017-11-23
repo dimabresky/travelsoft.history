@@ -11,7 +11,7 @@
 /** @var string $componentPath */
 /** @var CBitrixComponent $component */
 $this->setFrameMode(true);
-CJSCore::Init();
+CJSCore::Init(array("date"));
 ?>
 
 <div class="container">
